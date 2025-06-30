@@ -40,18 +40,35 @@ AI Trip Planner is an intelligent travel planning application that leverages the
 
 <div align="center">
 
-### 🏠 Main Interface
-![Main Interface](screenshots/main_interface.png)
+### 🏠 Main Interface & Features
+<img src="screenshots/1.png" alt="AI Trip Planner Main Interface" width="800"/>
 
-### 🗨️ Chat Interface
-![Chat Interface](screenshots/chat_interface.png)
+*Beautiful gradient design with interactive features and modern UI*
 
-### 📋 Trip Results
-![Trip Results](screenshots/trip_results.png)
+---
 
-*More screenshots available in the `/screenshots` folder*
+### 🗨️ Chat Interface & Input
+<img src="screenshots/2.png" alt="Chat Interface with Example Prompts" width="800"/>
+
+*Smart chat interface with example prompts and quick actions*
+
+---
+
+### � Trip Planning & Tools  
+<img src="screenshots/3.png" alt="Trip Planning Tools and Features" width="800"/>
+
+*Comprehensive tools including weather, currency, and budget planning*
+
+---
+
+### 📋 Trip Results & Itinerary
+<img src="screenshots/4.png" alt="AI Generated Trip Results" width="800"/>
+
+*Detailed AI-generated travel itineraries with professional formatting*
 
 </div>
+
+> 💡 **View Full Screenshots**: All screenshots are available in high resolution in the [`/screenshots`](./screenshots) folder
 
 ---
 
